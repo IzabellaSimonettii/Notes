@@ -1,0 +1,5 @@
+
+colors =>
+
+RGB - _ _ | _ _ | _ _  -> CREATING THE STRUCTURE OF THE HEXADECIMAL COLORS 
+      RED  GREEN BLUE
