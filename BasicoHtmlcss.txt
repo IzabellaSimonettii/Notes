@@ -1,5 +1,22 @@
+Tips HTML => 
+
+<meta charset="UTF-8"> // A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character 
+in the Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages.
+
+<html lang="pt-br"> // This is a information for the browser of the original language of the page.
+
+construction of a document with this conficurations 
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> Here i have all the informations that i need for the page
+	<meta charset="UTF-8"> 
+    <title>Titulo na Aba</title>
+    
+-----------------------------------------------------------------------------------------------------------------------------------
 
 colors =>
 
 RGB - _ _ | _ _ | _ _  -> CREATING THE STRUCTURE OF THE HEXADECIMAL COLORS 
       RED  GREEN BLUE
+
